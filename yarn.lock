@@ -13,6 +13,10 @@ array-flatten@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/array-flatten/-/array-flatten-1.1.1.tgz#9a5f699051b1e7073328f2a008968b64ea2955d2"
 
+bfcounter@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/bfcounter/-/bfcounter-1.0.1.tgz#62b93c8bad90a999a511bfa3c950beb4c03b3f7d"
+
 body-parser@1.18.2:
   version "1.18.2"
   resolved "https://registry.yarnpkg.com/body-parser/-/body-parser-1.18.2.tgz#87678a19d84b47d859b83199bd59bce222b10454"
